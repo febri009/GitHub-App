@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub App</string>
+    <string name="search">search</string>
+    <string name="setting">setting</string>
+    <string name="favorite">favorite</string>
+    <string name="tulisan_search">Search username</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="bio">Bio</string>
+    <string name="fullName">Name</string>
+    <string name="usn">username</string>
+    <string name="jumlah">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
